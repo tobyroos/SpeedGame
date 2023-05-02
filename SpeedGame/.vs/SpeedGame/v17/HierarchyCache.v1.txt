@@ -1,0 +1,350 @@
+﻿++Solution 'SpeedGame' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:SpeedGame.sln
+++SpeedGame
+i:{00000000-0000-0000-0000-000000000000}:SpeedGame
+++Connected Services 
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:>323
+++Dependencies
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:>322
+++Properties
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\properties\
+++wwwroot
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\
+++Hubs
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\hubs\
+++GameHub.cs
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\hubs\gamehub.cs
+++Pages
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\
+++Shared
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\shared\
+++_Layout.cshtml
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\shared\_validationscriptspartial.cshtml
+++_ViewImports.cshtml
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\_viewstart.cshtml
+++Error.cshtml
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\error.cshtml
+++game.cshtml
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\game.cshtml
+++game.cshtml.cs
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\game.cshtml.cs
+++Index.cshtml
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\index.cshtml
+++Index.cshtml.cs
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\index.cshtml.cs
+++Privacy.cshtml
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\privacy.cshtml
+++appsettings.json
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\appsettings.json
+++libman.json
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\libman.json
+++Program.cs
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\program.cs
+++Speed.cs
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\speed.cs
+++No service dependencies discovered
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:>324
+++Analyzers
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:analyzers
+++Frameworks
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:frameworks
+++launchSettings.json
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\properties\launchsettings.json
+++css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\css\
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\js\
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\
+++favicon.ico
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\favicon.ico
+++_Layout.cshtml.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\shared\_layout.cshtml.css
+++Error.cshtml.cs
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\error.cshtml.cs
+++Privacy.cshtml.cs
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\pages\privacy.cshtml.cs
+++appsettings.Development.json
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\sdk\6.0.102\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\microsoft.netcore.app
+++site.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\css\site.css
+++signalr
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\js\signalr\
+++game.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\js\game.js
+++site.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\js\site.js
+++bootstrap
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\
+++jquery
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery\
+++jquery-validation
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\js\signalr\dist\
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery\dist\
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery\license.txt
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++browser
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\js\signalr\dist\browser\
+++jquery.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++signalr.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\js\signalr\dist\browser\signalr.js
+++bootstrap.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++signalr.min.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\js\signalr\dist\browser\signalr.min.js
+++bootstrap.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++img
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\
+++10Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\10club.png
+++10Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\10diamond.png
+++10Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\10heart.png
+++10Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\10spade.png
+++2Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\2club.png
+++2Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\2diamond.png
+++2Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\2heart.png
+++2Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\2spade.png
+++3Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\3club.png
+++3Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\3diamond.png
+++3Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\3heart.png
+++3Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\3spade.png
+++4Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\4club.png
+++4Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\4diamond.png
+++4Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\4heart.png
+++4Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\4spade.png
+++5Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\5club.png
+++5Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\5diamond.png
+++5Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\5heart.png
+++5Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\5spade.png
+++6Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\6club.png
+++6Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\6diamond.png
+++6Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\6heart.png
+++6Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\6spade.png
+++7Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\7club.png
+++7Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\7diamond.png
+++7Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\7heart.png
+++7Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\7spade.png
+++8Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\8club.png
+++8Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\8diamond.png
+++8Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\8heart.png
+++8Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\8spade.png
+++9Club.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\9club.png
+++9Diamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\9diamond.png
+++9Heart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\9heart.png
+++9Spade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\9spade.png
+++aClub.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\aclub.png
+++aDiamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\adiamond.png
+++aHeart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\aheart.png
+++aSpade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\aspade.png
+++back.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\back.png
+++blank.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\blank.png
+++jClub.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\jclub.png
+++jDiamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\jdiamond.png
+++jHeart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\jheart.png
+++jSpade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\jspade.png
+++kClub.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\kclub.png
+++kDiamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\kdiamond.png
+++kHeart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\kheart.png
+++kSpade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\kspade.png
+++qClub.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\qclub.png
+++qDiamond.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\qdiamond.png
+++qHeart.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\qheart.png
+++qSpade.png
+i:{898ccbef-f8ab-48da-9658-d9e3e553a47a}:c:\users\codyb\documents\computer science\se2\3750_speed_game\speedgame\speedgame\img\qspade.png

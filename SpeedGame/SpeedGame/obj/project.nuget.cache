@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vu18IY/K6kR5HFeWptLjBhFmbYDBfQX6U8yk2WvfyH9seRTl8KF2ispPOAKCMfJKtfhCL2BXIWiShlOcFip7qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tobyr\\Documents\\WSU_CS_3750\\SpeedGame\\SpeedGame\\SpeedGame\\SpeedGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tobyr\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

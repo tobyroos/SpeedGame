@@ -1,0 +1,145 @@
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.json
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\libman.json
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.staticwebassets.runtime.json
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.exe
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.deps.json
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.runtimeconfig.json
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.dll
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.pdb
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfoInputs.cache
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfo.cs
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CoreCompileInputs.cache
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cache
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cs
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\bundle\SpeedGame.styles.css
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\projectbundle\SpeedGame.bundle.scp.css
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.dll
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.pdb
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.genruntimeconfig.cache
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.json
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\libman.json
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.staticwebassets.runtime.json
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.exe
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.deps.json
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.runtimeconfig.json
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.dll
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.pdb
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.AssemblyReference.cache
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfoInputs.cache
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfo.cs
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CoreCompileInputs.cache
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cache
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cs
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\bundle\SpeedGame.styles.css
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\projectbundle\SpeedGame.bundle.scp.css
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CopyComplete
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.dll
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\refint\SpeedGame.dll
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.pdb
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.genruntimeconfig.cache
+C:\Users\AARON\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.AssemblyReference.cache
+C:\Users\tobyr\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CopyComplete
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.json
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\libman.json
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.staticwebassets.runtime.json
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.exe
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.deps.json
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.runtimeconfig.json
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.dll
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.pdb
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.AssemblyReference.cache
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfoInputs.cache
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfo.cs
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CoreCompileInputs.cache
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cache
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cs
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\bundle\SpeedGame.styles.css
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\projectbundle\SpeedGame.bundle.scp.css
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CopyComplete
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.dll
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.pdb
+C:\Users\tobyr\speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.genruntimeconfig.cache
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.json
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\libman.json
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.staticwebassets.runtime.json
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.exe
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.deps.json
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.runtimeconfig.json
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.dll
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.AssemblyReference.cache
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfoInputs.cache
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfo.cs
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CoreCompileInputs.cache
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cache
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cs
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\bundle\SpeedGame.styles.css
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\projectbundle\SpeedGame.bundle.scp.css
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CopyComplete
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.dll
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.pdb
+C:\Users\codyb\Documents\Computer Science\SE2\3750_speed_game\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.genruntimeconfig.cache
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\appsettings.json
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\libman.json
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.staticwebassets.runtime.json
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.exe
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.deps.json
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.runtimeconfig.json
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.dll
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\SpeedGame.pdb
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.AssemblyReference.cache
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfoInputs.cache
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.AssemblyInfo.cs
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CoreCompileInputs.cache
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cache
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.RazorAssemblyInfo.cs
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\bundle\SpeedGame.styles.css
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\scopedcss\projectbundle\SpeedGame.bundle.scp.css
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.csproj.CopyComplete
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.dll
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\ref\SpeedGame.dll
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.pdb
+C:\Users\tobyr\Documents\WSU_CS_3750\SpeedGame\SpeedGame\SpeedGame\obj\Debug\net6.0\SpeedGame.genruntimeconfig.cache
